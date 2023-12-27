@@ -15,4 +15,4 @@ For now, the following parameters were used:
 - TD Learning Rate : 0.1
 - Discount factor : 0.99
 
-For now, these values were randomly chosen. Using Q learning, the cart was able to mantain pole for a longer period of time. Initially, the maximum duration was around ~14 but gradually after training on a 1,00,000 episodes, it became ~6000 on an average. 
+For now, these values were randomly chosen. Using Q learning, the cart was able to mantain pole for a longer period of time. Initially, the maximum duration was around ~14 but gradually after training on a 1,00,000 episodes, it became ~250 on an average. 
