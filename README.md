@@ -26,7 +26,7 @@ For now, the following parameters were used:
 
 For now, these values were randomly chosen. Using Q learning, the Car was able to ascend to the hilltop in a much easier fashion compared to how it did initially, in 10,000 steps.
 
-### Reinforcement Learning to Train On A Frozen Lake
+### Reinforcement Learning to Train On A Slippery Frozen Lake
 
 The algorithm used to train the cart is Q-Learning. The Cart is taken from OpenAI's Frozen Lake, an open source implementation of the Frozen Lake problem. Hyper parameter tuning will be added later.
 For now, the following parameters were used: 
