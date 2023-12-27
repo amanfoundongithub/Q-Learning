@@ -25,3 +25,12 @@ For now, the following parameters were used:
 - Discount factor : 0.99
 
 For now, these values were randomly chosen. Using Q learning, the Car was able to ascend to the hilltop in a much easier fashion compared to how it did initially, in 10,000 steps.
+
+### Reinforcement Learning to Train On A Frozen Lake
+
+The algorithm used to train the cart is Q-Learning. The Cart is taken from OpenAI's Frozen Lake, an open source implementation of the Frozen Lake problem. Hyper parameter tuning will be added later.
+For now, the following parameters were used: 
+- TD Learning Rate : 0.8
+- Discount factor : 0.95
+
+For now, these values were randomly chosen. We trained the Agent over 20,000 steps and found that the agent could now successfully cross the frozen lake, despite the slippery conditions...
