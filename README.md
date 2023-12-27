@@ -30,3 +30,8 @@ For now, these values were randomly chosen. Using Q learning, the Car was able t
 We have considered two conditions, when the lake is either slippery or not. It has been seen that the reward is higher on an average for the non slippery one than the slippery one due to the fact that the whole lake is strongly deterministic in nature, as well as the randomness of the stochastic slipping of the Agent. 
 - TD Learning Rate : 0.8
 - Discount factor : 0.95
+
+### Reinforcement Learning to Train Play BlackJack
+The agent plays to learn Blackjack rather quickly and win games. :) 
+- TD Learning Rate : 0.1
+- Discount factor : 0.95
